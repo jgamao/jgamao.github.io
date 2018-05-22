@@ -1,6 +1,6 @@
 # jgamao.github.io
 
-<img src="https://media.licdn.com/dms/image/C4E03AQE0nPnlpTxiNA/profile-displayphoto-shrink_200_200/0?e=1529866800&v=beta&t=_-Cd6QD3NdtkqAompSSEk_T3FD8Y1aqcHAWDnWgsjHg" />
+<img src="https://media.licdn.com/dms/image/C4E03AQE0nPnlpTxiNA/profile-displayphoto-shrink_200_200/0?e=1529866800&v=beta&t=_-Cd6QD3NdtkqAompSSEk_T3FD8Y1aqcHAWDnWgsjHg" /> <br />
 I am not a stranger to the dark <br/>
 Hide away, they say <br/>
 'Cause we don't want your broken parts <br/>
